@@ -1,3 +1,5 @@
+// Plan - Create containers to store inputs, add keystrokes to a string and evaluate
+//  if possible when equalis is clicked, then show results in display. If error show error message.
 /*-------------------------------- Constants --------------------------------*/
 
 const displayElement = document.querySelector('.display');
